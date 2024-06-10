@@ -1,0 +1,106 @@
+Bench Press (Barbell)
+Incline Chest Press (Machine)
+Bench Press (Dumbbell)
+Chest Fly (Dumbbell)
+Squat (Barbell)
+Leg Extension (Machine)
+Lying Leg Curl (Machine)
+Bicep Curl (Barbell)
+Bicep Curl (Cable)
+Bent Over Row (Barbell)
+Lat Pulldown (Cable)
+Seated Wide-Grip Row (Cable)
+Lat pull down (crossover) 
+Overhead Press (Barbell)
+Reverse Fly (Dumbbell)
+Front Raise (Dumbbell)
+Triceps Extension (Dumbbell)
+Triceps Pushdown (Cable - Straight Bar)
+Incline Bench Press (Dumbbell)
+Cable Crossover
+Cable Crunch
+Russian Twist
+Bicep Curl (Dumbbell)
+Knee Raise (Captain's Chair)
+Leg Press
+Seated Calf Raise (Plate Loaded)
+Shoulder Press (Machine)
+Chest Dip
+Seated Row (Cable)
+Arnold Press (Dumbbell)
+Decline Crunch
+Concentration Curl (Dumbbell)
+Ab Wheel
+T Bar Row
+Hammer Curl (Dumbbell)
+Preacher Curl (Barbell)
+Shrug (Dumbbell)
+Pec Deck (Machine)
+Skullcrusher (Barbell)
+Upright Row (Dumbbell)
+T bar row (free weight)
+Seated row One hand
+Lat pulldown - Crossover
+Back Extension
+Crunch
+Triceps Extension (Cable)
+Bench Press (Smith Machine)
+Front Raise (Plate)
+Lateral Raise (Cable)
+Face Pull (Cable)
+Chest Fly
+Lunge (Dumbbell)
+Lunge (Bodyweight)
+Jump Squat
+Lateral Raise (Dumbbell)
+Chin Up (Assisted)
+Seated biceps curl (-45deg)
+Lunge smith
+Shrug (Smith Machine)
+V Up
+Seated Overhead Press (Dumbbell)
+Pullover (Dumbbell)
+Lat Pulldown (Single Arm)
+Inverted Row (Bodyweight)
+Squat (Smith Machine)
+Upright Row (Barbell)
+Pull Up
+Bent Over Row (Dumbbell)
+Lat Pulldown - Underhand (Cable)
+Pull Up (Assisted)
+Romanian Deadlift (Barbell)
+Chest Press (Machine)
+Wrist Roller
+Wrist barbell
+Reverse Curl (Barbell)
+Back wrist barbell
+Chin Up
+Pullover in crossover
+Front raise 2 pound
+Push press 2 pound
+Iso-Lateral Chest Press (Machine)
+Deadlift (Barbell)
+Reverse Fly (Machine)
+Hack Squat
+Bent Over One Arm Row (Dumbbell)
+Standing Calf Raise (Smith Machine)
+Chest dip (mashine) 
+Standing Calf Raise (Bodyweight)
+Hammer Curl (Cable)
+Hanging Knee Raise
+Lat Pulldown - Wide Grip (Cable)
+Calf Press on Leg Press
+Hanging Leg Raise
+Reverse Curl (Dumbbell)
+Lat Pulldown (Machine)
+Bench press (close grip) 
+Chest Dip (Assisted)
+Sumo Deadlift (Barbell)
+Lat pulldown (close grip) 
+Front Raise (Barbell)
+Triceps Extension
+Decline Bench Press (Barbell)
+Iso-Lateral Row (Machine)
+Preacher Curl (Machine)
+Crunch (Machine)
+Seated Leg Curl (Machine)
